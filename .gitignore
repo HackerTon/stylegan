@@ -1,6 +1,12 @@
 .vscode
+<<<<<<< HEAD
 __pycache__
 dnnlib/__pycache__
 dnnlib/submission/__pycache__
 dnnlib/tflib/__pycache__/
 *.pkl
+=======
+dnnlib/__pycache__
+dnnlib/submission/__pycache__
+dnnlib/tflib/__pycache__/
+>>>>>>> d745dab7f1a518d8070dd9371c72fc14c1f7b9eb
